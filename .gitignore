@@ -1,0 +1,6 @@
+target
+.metadata
+.sonar
+*.exe
+*.log
+/target
