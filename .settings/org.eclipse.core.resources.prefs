@@ -1,5 +1,13 @@
 eclipse.preferences.version=1
-encoding//src/com/webservices/demo/MediathequeWebService.java=UTF-8
-encoding//src/com/webservices/demo/MediathequeWebServicePortBindingStub.java=UTF-8
-encoding//src/com/webservices/demo/MediathequeWebServiceService.java=UTF-8
-encoding//src/com/webservices/demo/MediathequeWebServiceServiceLocator.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/Book.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/Cd.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/CdKindType.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/DBAccess.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/DBAccessPortBindingStub.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/DBAccessService.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/DBAccessServiceLocator.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/DataType.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/DomainObject.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/Movie.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/User.java=UTF-8
+encoding//src/main/java/fr/guronzan/mediatheque/webservice/VideoType.java=UTF-8
